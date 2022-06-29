@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="note-system-back-end:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>note-system-back-end</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="note-system-back-end-1.0.0.war">
+      <element id="artifact" artifact-name="note-system-back-end:war exploded" />
+    </root>
+  </artifact>
+</component>

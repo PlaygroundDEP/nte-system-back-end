@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: thakshila
+Build-Jdk: Oracle OpenJDK version 1.8.0_311
+Implementation-Title: note-system-back-end
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: lk.ijse.dep8
+Main-Class: ${start-class}
+
